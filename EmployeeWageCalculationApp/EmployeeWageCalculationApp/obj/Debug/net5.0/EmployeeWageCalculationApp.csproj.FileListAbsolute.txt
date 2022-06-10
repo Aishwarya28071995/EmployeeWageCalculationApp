@@ -1,0 +1,16 @@
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\bin\Debug\net5.0\EmployeeWageCalculationApp.exe
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\bin\Debug\net5.0\EmployeeWageCalculationApp.deps.json
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\bin\Debug\net5.0\EmployeeWageCalculationApp.runtimeconfig.json
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\bin\Debug\net5.0\EmployeeWageCalculationApp.runtimeconfig.dev.json
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\bin\Debug\net5.0\EmployeeWageCalculationApp.dll
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\bin\Debug\net5.0\EmployeeWageCalculationApp.pdb
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\EmployeeWageCalculationApp.csproj.AssemblyReference.cache
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\EmployeeWageCalculationApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\EmployeeWageCalculationApp.AssemblyInfoInputs.cache
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\EmployeeWageCalculationApp.AssemblyInfo.cs
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\EmployeeWageCalculationApp.csproj.CoreCompileInputs.cache
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\EmployeeWageCalculationApp.dll
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\refint\EmployeeWageCalculationApp.dll
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\EmployeeWageCalculationApp.pdb
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\EmployeeWageCalculationApp.genruntimeconfig.cache
+F:\AssignmentDay3\EmployeeWageCalculationApp\EmployeeWageCalculationApp\obj\Debug\net5.0\ref\EmployeeWageCalculationApp.dll
